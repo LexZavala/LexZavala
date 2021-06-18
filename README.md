@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiLexZavala=anuraghazra)](https://github.com/anuraghazra/github-readme-stats);
+[![Lex Zavala's GitHub stats](https://github-readme-stats.vercel.app/api?username=LexZavala)](https://github.com/anuraghazra/github-readme-stats);
 
 <!--
 **LexZavala/LexZavala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
