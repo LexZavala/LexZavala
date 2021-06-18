@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, my name is Lex Zavala 👋
+
+- 🔭 I’m currently working on a fantasy stats web app with use of API
+- 🌱 I’m currently learning Full Stack Web Development - this week I am learning SQL
+- 💬 Ask me about comic books, films, mma
+- 📫 How to reach me: lex.zavala7@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LexZavala&theme=dark-smoky&hide_border=true&sideNums=00DDBD&fire=DD1A3D&currStreakNum=00DDBD&currStreakLabel=DD7F2E&dates=666666)](https://git.io/streak-stats)
 <br>
