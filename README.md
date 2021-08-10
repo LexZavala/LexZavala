@@ -1,6 +1,6 @@
 ### Hi there, my name is Lex Zavala 👋
 
-- 🔭 I’m currently working on a fantasy stats web app with use of API
+- 🔭 I’m currently working on my capstone project, job board tracker for job seekers.
 - 🌱 I’m currently learning Full Stack Web Development - this week I am learning about Spring Relationships and Services
 - 💬 Ask me about comic books, films, mma
 - 📫 How to reach me: lex.zavala7@gmail.com
