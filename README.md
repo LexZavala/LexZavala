@@ -1,7 +1,8 @@
 ### Hi there, my name is Lex Zavala 👋
 
-- 🔭 I’m currently working on my capstone project, job board tracker for job seekers.
-- 🌱 I’m currently learning Full Stack Web Development - this week I am learning about Spring Relationships and Services
+- 🔭 I’m currently working on my personal portfolio.
+- 💼 Looking for a job.
+- 🌱 I’m recently graduated from the Codeup Full Stack Web Development program with a certificate of completion.
 - 💬 Ask me about comic books, films, mma
 - 📫 How to reach me: lex.zavala7@gmail.com
 
