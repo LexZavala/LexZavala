@@ -1,8 +1,8 @@
 ### Hi there, my name is Lex Zavala 👋
 
-- 🔭 I’m currently working on my personal portfolio.
-- 💼 Looking for a job.
-- 🌱 I’m recently graduated from the Codeup Full Stack Web Development program with a certificate of completion.
+- 🔭 I’m currently working on learning Golang
+- 🚀 I am a Support Engineer @ Bitrise, supporting mobile development teams in a CI/CD environment.
+- 🌱 I graduated from the Codeup Full Stack Web Development program in 2021 with a certificate of completion.
 - 💬 Ask me about comic books, films, mma
 - 📫 How to reach me: lex.zavala7@gmail.com
 
